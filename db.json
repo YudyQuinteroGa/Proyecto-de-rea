@@ -1,0 +1,41 @@
+{
+  "ListaProductos": [
+    {
+      "nombreProducto": "Celular Xpro",
+      "categoriaProducto": "Electronica",
+      "estadoProducto": "Nuevo",
+      "precioProducto": 355000,
+      "descripccionProducto": "Celular Nuevo en excelentes condiciones.",
+      "fechaProducto": "2022-11-17T05:00:00.000Z",
+      "id": 2
+    },
+    {
+      "nombreProducto": "Aceite",
+      "categoriaProducto": "Abarrotes",
+      "estadoProducto": "Nuevo",
+      "precioProducto": 12560,
+      "descripccionProducto": "Producto natural con extracto de girasol.",
+      "fechaProducto": "2023-02-28T05:00:00.000Z",
+      "id": 5
+    },
+    {
+      "nombreProducto": "Pantalon",
+      "categoriaProducto": "Textil",
+      "estadoProducto": "Usado",
+      "precioProducto": 25000,
+      "descripccionProducto": "Pantalón con tres meses de uso en excelentes condiciones.",
+      "fechaProducto": "2022-11-24T05:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
